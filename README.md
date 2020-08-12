@@ -1,5 +1,11 @@
 # Deploying a Flask API
 
+## The mose up-to-date tutorial can be found: 
+[Here](https://github.com/jungleBadger/FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS/blob/master/troubleshooting/deploy.md) 
+
+## Error: Create_in_progress for too long
+[Fix](https://knowledge.udacity.com/questions/299293)
+
 This is the project starter repo for the fourth course in the [Udacity Full Stack Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004): Server Deployment, Containerization, and Testing.
 
 In this project you will containerize and deploy a Flask API to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild.
